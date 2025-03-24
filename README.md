@@ -27,3 +27,5 @@ The back-end was constructed using a scalable and secure architecture to handle 
 The entire PWA adhered to modern performance optimization practices, including lazy loading, image compression, and pre-caching, to enhance load times and reduce data usage. Additionally, I focused on maintaining accessibility by following **Web Content Accessibility Guidelines (WCAG)**, ensuring that the platform was inclusive for users with different abilities.
 
 Overall, this project gave me hands-on experience in **progressive web development**, enhancing my skills in front-end and back-end programming, service workers, caching strategies, and mobile-first design. Successfully delivering this project reinforced my ability to create scalable and high-performance web applications that meet user demands and modern standards.
+
+![Image](https://github.com/user-attachments/assets/0465c0fa-301b-4bc3-b7fd-93a74f9930e2)
